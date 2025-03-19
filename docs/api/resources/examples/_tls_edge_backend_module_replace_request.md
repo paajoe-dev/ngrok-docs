@@ -8,6 +8,6 @@ curl \
 -H "Authorization: Bearer {API_KEY}" \
 -H "Content-Type: application/json" \
 -H "Ngrok-Version: 2" \
--d '{"backend_id":"bkdtg_2uVawJJdj2KaaIdOrCNDXeIGql7","enabled":true}' \
-https://api.ngrok.com/edges/tls/edgtls_2uVawIDjHUUBlpZOsRl4zpGuZI3/backend
+-d '{"backend_id":"bkdtg_2uWzP2B4CKuXPk9cMZWiir92L9U","enabled":true}' \
+https://api.ngrok.com/edges/tls/edgtls_2uWzP1fQjK7kkJnOEnAGWjKsipM/backend
 ```
